@@ -7,6 +7,7 @@ public class GitTeamwork {
         We are already 2 people :D
         ------------------------------
         """);
+	simulateTeamwork("THIS IS PRE LAST COMMIT");
         simulateTeamwork("Serhx4");
         simulateTeamwork("Hello dudes");
         simulateTeamwork("divizia");
