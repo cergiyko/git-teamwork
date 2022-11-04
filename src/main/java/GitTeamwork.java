@@ -9,6 +9,7 @@ public class GitTeamwork {
         """);
         simulateTeamwork("Serhx4");
         simulateTeamwork("divizia");
+        simulateTeamwork("Serhx4 again:)");
     }
 
     private static void simulateTeamwork(String name) {
