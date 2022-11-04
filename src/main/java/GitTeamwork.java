@@ -10,6 +10,7 @@ public class GitTeamwork {
         simulateTeamwork("Serhx4");
         simulateTeamwork("divizia");
         simulateTeamwork("Serhx4 again:)");
+        simulateTeamwork("Ahahahah. It's a conflict!");
     }
 
     private static void simulateTeamwork(String name) {
