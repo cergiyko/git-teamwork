@@ -4,9 +4,11 @@ public class GitTeamwork {
         System.out.println("""
         
         Hi there! Welcome to the team!
+        We are already 2 people :D
         ------------------------------
         """);
         simulateTeamwork("Serhx4");
+        simulateTeamwork("divizia");
     }
 
     private static void simulateTeamwork(String name) {
