@@ -4,7 +4,7 @@ public class GitTeamwork {
         System.out.println("""
         
         Hi there! Welcome to the team!
-        We are already 2 people :D
+        We already have 3 teammates :D
         ------------------------------
         """);
 	simulateTeamwork("THIS IS PRE LAST COMMIT");
