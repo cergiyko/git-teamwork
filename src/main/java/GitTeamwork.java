@@ -4,7 +4,7 @@ public class GitTeamwork {
         System.out.println("""
         
         Hi there! Welcome to the team!
-        We already have 3 teammates :D
+        We already have 4 teammates :D
         ------------------------------
         """);
 	simulateTeamwork("THIS IS PRE LAST COMMIT");
@@ -14,6 +14,7 @@ public class GitTeamwork {
         simulateTeamwork("Serhx4 again:)");
         simulateTeamwork("Serhx4 and again:)");
         simulateTeamwork("Ahahahah. It's a conflict!");
+        simulateTeamwork("hello");
     }
 
     private static void simulateTeamwork(String name) {
