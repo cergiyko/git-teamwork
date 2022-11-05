@@ -14,6 +14,7 @@ public class GitTeamwork {
         simulateTeamwork("Serhx4 again:)");
         simulateTeamwork("Serhx4 and again:)");
         simulateTeamwork("Ahahahah. It's a conflict!");
+        simulateTeamwork("We are four members");
     }
 
     private static void simulateTeamwork(String name) {
