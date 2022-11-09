@@ -16,7 +16,7 @@ public class GitTeamwork {
         simulateTeamwork("Ahahahah. It's a conflict!");
         simulateTeamwork("We are four members");
         simulateTeamwork("And again a conflict!");
-        simulateTeamwork("hello");
+        simulateTeamwork("Hello");
     }
     private static void simulateTeamwork(String name) {
         System.out.format("%s simulates teamwork :)\n", name);
